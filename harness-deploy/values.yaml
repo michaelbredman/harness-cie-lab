@@ -1,5 +1,5 @@
 name: payment-service-workshop
-replicas: 1
+replicas: 10
 
 image: <+artifact.image>
 # dockercfg: <+artifact.imagePullSecret>
