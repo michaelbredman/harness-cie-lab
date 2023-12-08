@@ -32,6 +32,7 @@ public class PaymentApplication {
 
 	 @Value( "${harness.api.key}" )
 	 String apiKey;
+	String mikeTest;
     
 	 
     public static void main(String[] args) {
